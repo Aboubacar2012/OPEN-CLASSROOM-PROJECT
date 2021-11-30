@@ -11,5 +11,5 @@ Les compétences validées par ce projet sont :
 
 Des méthodes de Deep Learning (MLP) ont été aussi testés dans ce projet. Une application a commencé à être développé avec le framework Flask. Ces deux compétences n'étaient pas évaluées dans le projet initial.
 
-Ce projet a été **soutenu** et **validé** le 6 août 2021.
+
  
